@@ -11,5 +11,3 @@ function superDigit(n, k) {
   return returnNumber;
 }
 
-console.log(superDigit(9875, 4));
-
